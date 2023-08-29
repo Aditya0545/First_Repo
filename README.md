@@ -1,6 +1,7 @@
 <h1>My First GitHub Repo</h1>
 <br>
 Author : Aditya Kumar
+<br>
 Contact : 22btcse067@shiats.edu.in
 <br>
 <h2> About </h2>
